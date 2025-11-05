@@ -1,7 +1,8 @@
 package principal;
 
-import dao.BicicletaDAO;
 import modelo.Bicicleta;
+
+import java.BicicletaDAO;
 import java.util.List;
 import java.util.Scanner;
 

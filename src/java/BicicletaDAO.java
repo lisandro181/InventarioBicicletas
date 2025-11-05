@@ -1,4 +1,4 @@
-package dao;
+package java;
 
 import modelo.Bicicleta;
 import database.Conexion;
